@@ -1,62 +1,64 @@
-[
-  {
-    "key": "1",
-    "userId": "CIN-USER-67890",
-    "promoCode": "PROMO2024XYZ789",
-    "promoUsed": true
-  },
-  {
-    "key": "2",
-    "userId": "CIN-USER-10847",
-    "promoCode": "DISCOUNT5K3LPQR",
-    "promoUsed": false
-  },
-  {
-    "key": "3",
-    "userId": "CIN-USER-58201",
-    "promoCode": "SAVE20ABCD12345",
-    "promoUsed": true
-  },
-  {
-    "key": "4",
-    "userId": "CIN-USER-23456",
-    "promoCode": "WELCOME9876HNMJ",
-    "promoUsed": false
-  },
-  {
-    "key": "5",
-    "userId": "CIN-USER-91234",
-    "promoCode": "SPECIAL15TUVWXY",
-    "promoUsed": true
-  },
-  {
-    "key": "6",
-    "userId": "CIN-USER-45678",
-    "promoCode": "BONUS2025DEFGH1",
-    "promoUsed": false
-  },
-  {
-    "key": "7",
-    "userId": "CIN-USER-77889",
-    "promoCode": "OFFER30KLMNOP23",
-    "promoUsed": true
-  },
-  {
-    "key": "8",
-    "userId": "CIN-USER-33221",
-    "promoCode": "DEALZ45QRSTUVW",
-    "promoUsed": false
-  },
-  {
-    "key": "9",
-    "userId": "CIN-USER-88990",
-    "promoCode": "REWARD2024XYZ12",
-    "promoUsed": true
-  },
-  {
-    "key": "10",
-    "userId": "CIN-USER-12345",
-    "promoCode": "PROMO10ABCDEF34",
-    "promoUsed": false
-  }
-]
+{
+  "promoCodes": [
+    {
+      "key": "1",
+      "userId": "CIN-USER-67890",
+      "promoCode": "PROMO2024XYZ789",
+      "promoUsed": true
+    },
+    {
+      "key": "2",
+      "userId": "CIN-USER-10847",
+      "promoCode": "DISCOUNT5K3LPQR",
+      "promoUsed": false
+    },
+    {
+      "key": "3",
+      "userId": "CIN-USER-58201",
+      "promoCode": "SAVE20ABCD12345",
+      "promoUsed": true
+    },
+    {
+      "key": "4",
+      "userId": "CIN-USER-23456",
+      "promoCode": "WELCOME9876HNMJ",
+      "promoUsed": false
+    },
+    {
+      "key": "5",
+      "userId": "CIN-USER-91234",
+      "promoCode": "SPECIAL15TUVWXY",
+      "promoUsed": true
+    },
+    {
+      "key": "6",
+      "userId": "CIN-USER-45678",
+      "promoCode": "BONUS2025DEFGH1",
+      "promoUsed": false
+    },
+    {
+      "key": "7",
+      "userId": "CIN-USER-77889",
+      "promoCode": "OFFER30KLMNOP23",
+      "promoUsed": true
+    },
+    {
+      "key": "8",
+      "userId": "CIN-USER-33221",
+      "promoCode": "DEALZ45QRSTUVW",
+      "promoUsed": false
+    },
+    {
+      "key": "9",
+      "userId": "CIN-USER-88990",
+      "promoCode": "REWARD2024XYZ12",
+      "promoUsed": true
+    },
+    {
+      "key": "10",
+      "userId": "CIN-USER-12345",
+      "promoCode": "PROMO10ABCDEF34",
+      "promoUsed": false
+    }
+  ]
+}
