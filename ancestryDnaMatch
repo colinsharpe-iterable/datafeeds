@@ -1,0 +1,112 @@
+{
+  "data": {
+    "items": [
+      {
+        "userId": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+        "email": "colin.sharpe+ancestry@iterable.com",
+        "dnaHighlight": {
+          "matchName": "Margaret Thompson",
+          "relationship": "2nd-3rd cousin",
+          "sharedDNA": "2.5%",
+          "sharedAncestor": "William Sharpe",
+          "location": "Yorkshire, England",
+          "treeSize": 487,
+          "message": "New DNA match! Margaret shares your English ancestry and has a tree with 487+ people."
+        },
+        "recordHints": [
+          {
+            "hintId": "hint_001",
+            "personName": "Thomas Sharpe",
+            "recordType": "Birth Certificate",
+            "year": 1887,
+            "location": "Liverpool, Lancashire, England",
+            "collection": "England & Wales Births 1837-1915",
+            "confidence": "High",
+            "teaser": "Found birth record for Thomas Sharpe born 1887 in Liverpool - could this be your great-grandfather?"
+          },
+          {
+            "hintId": "hint_002",
+            "personName": "Elizabeth Mueller",
+            "recordType": "Immigration Record",
+            "year": 1902,
+            "location": "Ellis Island, New York",
+            "collection": "New York Passenger Lists",
+            "confidence": "Medium",
+            "teaser": "Elizabeth Mueller arrived from Hamburg, Germany in 1902 - matches your German ancestry line."
+          },
+          {
+            "hintId": "hint_003",
+            "personName": "William Sharpe",
+            "recordType": "Military Service",
+            "year": 1914,
+            "location": "British Army",
+            "collection": "UK WWI Service Records",
+            "confidence": "High",
+            "teaser": "William Sharpe served in WWI - view his military service record and medals."
+          }
+        ],
+        "historicalInsight": {
+          "topic": "Welsh Mining Heritage",
+          "era": "1890s",
+          "fact": "During the 1890s, Welsh coal mines employed over 250,000 workers. Many families from your region worked in the mining industry, shaping the culture and community you descended from.",
+          "relatedLocation": "South Wales",
+          "imageUrl": "https://example.com/welsh-mines.jpg"
+        },
+        "treeGrowthSuggestion": {
+          "action": "Add siblings",
+          "targetPerson": "Thomas Sharpe",
+          "potentialRecords": 8,
+          "message": "We found 8 potential siblings for Thomas Sharpe in England census records. Adding them could unlock more hints!"
+        }
+      },
+      {
+        "userId": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+        "email": "colin.sharpe+ancestry2@iterable.com",
+        "dnaHighlight": {
+          "matchName": null,
+          "relationship": null,
+          "sharedDNA": null,
+          "sharedAncestor": null,
+          "location": null,
+          "treeSize": null,
+          "message": "Unlock DNA insights! Order your AncestryDNA kit to discover cousins and ethnic origins."
+        },
+        "recordHints": [
+          {
+            "hintId": "hint_101",
+            "personName": "James Sharpe",
+            "recordType": "Census Record",
+            "year": 1920,
+            "location": "Boston, Massachusetts",
+            "collection": "US Federal Census",
+            "confidence": "High",
+            "teaser": "1920 census shows James Sharpe, age 35, living in Boston with wife and 3 children."
+          },
+          {
+            "hintId": "hint_102",
+            "personName": "Mary O'Brien",
+            "recordType": "Marriage Record",
+            "year": 1915,
+            "location": "Suffolk County, Massachusetts",
+            "collection": "Massachusetts Marriages",
+            "confidence": "Medium",
+            "teaser": "Marriage record found: Mary O'Brien married in Boston, 1915. Could this be your great-grandmother?"
+          }
+        ],
+        "historicalInsight": {
+          "topic": "Ellis Island Immigration",
+          "era": "1910-1920",
+          "fact": "Over 1 million immigrants passed through Ellis Island during the 1910s, many settling in Boston. Your ancestors may have been part of this great wave of American immigration.",
+          "relatedLocation": "Boston, Massachusetts",
+          "imageUrl": "https://example.com/ellis-island.jpg"
+        },
+        "treeGrowthSuggestion": {
+          "action": "Add birth details",
+          "targetPerson": "James Sharpe",
+          "potentialRecords": 3,
+          "message": "Adding birth dates and locations helps us find more accurate records. Start with James Sharpe to unlock more hints!"
+        }
+      }
+    ]
+  }
+}
