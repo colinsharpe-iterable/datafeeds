@@ -1,0 +1,156 @@
+{
+  "data": {
+    "content": [
+      {
+        "contentId": "uk_census_1911",
+        "region": "England",
+        "tiers": ["All-Access", "World Explorer"],
+        "contentType": "Featured Collection",
+        "title": "1911 UK Census: New Details Revealed",
+        "teaser": "The 1911 census includes unprecedented detail about occupations, room counts, and even fertility information. Discover what makes this census unique for English research.",
+        "imageUrl": "https://example.com/uk-census-1911.jpg",
+        "ctaText": "Explore UK Census Records",
+        "ctaLink": "https://www.ancestry.com/search/collections/uk-census-1911",
+        "difficulty": "intermediate",
+        "readTime": "5 min read"
+      },
+      {
+        "contentId": "german_church_records",
+        "region": "Germany",
+        "tiers": ["All-Access", "World Explorer"],
+        "contentType": "Research Guide",
+        "title": "German Church Records: Your Key to Pre-1800s Ancestry",
+        "teaser": "Before civil registration began, German church records were the primary documentation of births, marriages, and deaths. Learn how to navigate these critical records.",
+        "imageUrl": "https://example.com/german-church.jpg",
+        "ctaText": "Start German Research",
+        "ctaLink": "https://www.ancestry.com/search/collections/german-records",
+        "difficulty": "advanced",
+        "readTime": "7 min read"
+      },
+      {
+        "contentId": "immigration_ellis_island",
+        "region": "United States",
+        "tiers": ["all"],
+        "contentType": "Historical Context",
+        "title": "Ellis Island: Gateway to America",
+        "teaser": "Between 1892 and 1954, over 12 million immigrants entered the United States through Ellis Island. Learn how to find your ancestors in passenger lists and what information they contain.",
+        "imageUrl": "https://example.com/ellis-island.jpg",
+        "ctaText": "Search Passenger Lists",
+        "ctaLink": "https://www.ancestry.com/search/collections/ellis-island",
+        "difficulty": "beginner",
+        "readTime": "4 min read"
+      },
+      {
+        "contentId": "welsh_mining_communities",
+        "region": "Wales",
+        "tiers": ["All-Access", "World Explorer"],
+        "contentType": "Historical Context",
+        "title": "Life in Welsh Mining Communities: 1850-1920",
+        "teaser": "Coal mining shaped Welsh culture and communities for generations. Discover the records that document miners' lives, from employment registers to accident reports.",
+        "imageUrl": "https://example.com/welsh-mining.jpg",
+        "ctaText": "Explore Welsh Records",
+        "ctaLink": "https://www.ancestry.com/search/collections/wales",
+        "difficulty": "intermediate",
+        "readTime": "6 min read"
+      },
+      {
+        "contentId": "dna_basics_intro",
+        "region": "global",
+        "tiers": ["all"],
+        "contentType": "DNA Education",
+        "title": "DNA Testing 101: What Your Results Can Tell You",
+        "teaser": "Thinking about taking a DNA test? Learn what ethnicity estimates, DNA matches, and genetic traits can reveal about your family history.",
+        "imageUrl": "https://example.com/dna-basics.jpg",
+        "ctaText": "Learn About DNA Testing",
+        "ctaLink": "https://www.ancestry.com/dna",
+        "difficulty": "beginner",
+        "readTime": "5 min read",
+        "audienceFilter": "no_dna"
+      },
+      {
+        "contentId": "dna_advanced_matches",
+        "region": "global",
+        "tiers": ["all"],
+        "contentType": "DNA Education",
+        "title": "Maximizing Your DNA Matches: Advanced Strategies",
+        "teaser": "You have your DNA results—now what? Learn how to contact matches effectively, build shared ancestor trees, and break through brick walls with genetic genealogy.",
+        "imageUrl": "https://example.com/dna-matches.jpg",
+        "ctaText": "View Your DNA Matches",
+        "ctaLink": "https://www.ancestry.com/dna/matches",
+        "difficulty": "advanced",
+        "readTime": "8 min read",
+        "audienceFilter": "has_dna"
+      },
+      {
+        "contentId": "beginner_tree_tips",
+        "region": "global",
+        "tiers": ["all"],
+        "contentType": "Research Tip",
+        "title": "5 Tips for Building Your First Family Tree",
+        "teaser": "Starting your genealogy journey? Learn the essential strategies that will help you build a strong foundation and avoid common beginner mistakes.",
+        "imageUrl": "https://example.com/tree-tips.jpg",
+        "ctaText": "Build Your Tree",
+        "ctaLink": "https://www.ancestry.com/family-tree",
+        "difficulty": "beginner",
+        "readTime": "4 min read",
+        "audienceFilter": "small_tree"
+      },
+      {
+        "contentId": "advanced_research_methods",
+        "region": "global",
+        "tiers": ["All-Access", "World Explorer"],
+        "contentType": "Research Tip",
+        "title": "Advanced Research: Using Cluster Genealogy",
+        "teaser": "Stuck on a brick wall? Learn how researching your ancestor's neighbors, friends, and associates can unlock clues about your direct line.",
+        "imageUrl": "https://example.com/cluster-research.jpg",
+        "ctaText": "Try Advanced Techniques",
+        "ctaLink": "https://www.ancestry.com/academy/courses/cluster-genealogy",
+        "difficulty": "advanced",
+        "readTime": "10 min read",
+        "audienceFilter": "large_tree"
+      },
+      {
+        "contentId": "military_records_wwi",
+        "region": "United States",
+        "tiers": ["All-Access"],
+        "contentType": "Featured Collection",
+        "title": "WWI Draft Registration Cards: Every Man Aged 18-45",
+        "teaser": "Nearly 24 million American men registered for WWI draft between 1917-1918. These cards contain physical descriptions, occupations, and family details.",
+        "imageUrl": "https://example.com/wwi-draft.jpg",
+        "ctaText": "Search WWI Records",
+        "ctaLink": "https://www.ancestry.com/search/collections/wwi-draft",
+        "difficulty": "beginner",
+        "readTime": "5 min read"
+      },
+      {
+        "contentId": "newspapers_research_guide",
+        "region": "United States",
+        "tiers": ["All-Access"],
+        "contentType": "Research Guide",
+        "title": "Hidden Gems in Historical Newspapers",
+        "teaser": "Beyond obituaries: discover birth announcements, society pages, employment ads, and court proceedings that bring your ancestors' lives to light.",
+        "imageUrl": "https://example.com/newspapers.jpg",
+        "ctaText": "Search Newspapers",
+        "ctaLink": "https://www.ancestry.com/search/collections/newspapers",
+        "difficulty": "intermediate",
+        "readTime": "6 min read"
+      }
+    ],
+    "thisWeekInHistory": [
+      {
+        "date": "October 28",
+        "year": 1886,
+        "event": "Statue of Liberty Dedicated",
+        "description": "President Grover Cleveland dedicated the Statue of Liberty in New York Harbor. Was your ancestor there to witness it?",
+        "relatedSearch": "New York 1880s immigration"
+      },
+      {
+        "date": "October 29",
+        "year": 1929,
+        "event": "Stock Market Crash - Black Tuesday",
+        "description": "The Great Depression began with the stock market crash. How did this event affect your family?",
+        "relatedSearch": "1930 census unemployment"
+      }
+    ]
+  }
+}
