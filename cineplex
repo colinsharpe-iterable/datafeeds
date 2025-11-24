@@ -1,0 +1,115 @@
+{
+  "movies": [
+    {
+      "movieId": "MOV-DUNE2",
+      "title": "Dune: Part Two",
+      "titleFr": "Dune : Deuxième partie",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8b8R8l88Qje9dn9OE8PY05Nxl1X.jpg",
+      "genre": "Sci-Fi",
+      "releaseDate": "2024-03-01",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-BADLANDS",
+      "title": "Badlands",
+      "titleFr": "Badlands",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-badlands.jpg",
+      "genre": "Action",
+      "releaseDate": "2024-10-07",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-GABBY",
+      "title": "Gabby's Dollhouse The Movie",
+      "titleFr": "Le film de la Maison de poupée de Gabby",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-gabby.jpg",
+      "genre": "Family",
+      "releaseDate": "2024-09-12",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-ONE-BATTLE",
+      "title": "One Battle After Another",
+      "titleFr": "Une bataille après l'autre",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-onebattle.jpg",
+      "genre": "Drama",
+      "releaseDate": "2024-09-12",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-STRANGERS",
+      "title": "Strangers",
+      "titleFr": "Étrangers",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-strangers.jpg",
+      "genre": "Thriller",
+      "releaseDate": "2024-09-12",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-DOWNTON",
+      "title": "Downton Abbey",
+      "titleFr": "Downton Abbey",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-downton.jpg",
+      "genre": "Drama",
+      "releaseDate": "2024-09-12",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-DEMON-SLAYER",
+      "title": "Demon Slayer",
+      "titleFr": "Demon Slayer",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-demonslayer.jpg",
+      "genre": "Anime",
+      "releaseDate": "2024-09-12",
+      "isNowPlaying": true,
+      "isComingSoon": false
+    },
+    {
+      "movieId": "MOV-SMASHING",
+      "title": "The Smashing Machine",
+      "titleFr": "La machine destructrice",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-smashing.jpg",
+      "genre": "Drama",
+      "releaseDate": "2024-12-01",
+      "isNowPlaying": false,
+      "isComingSoon": true
+    },
+    {
+      "movieId": "MOV-SHOWGIRL",
+      "title": "The Official Grease Party of Showgirl",
+      "titleFr": "La fête officielle de Grease de Showgirl",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-showgirl.jpg",
+      "genre": "Musical",
+      "releaseDate": "2024-12-15",
+      "isNowPlaying": false,
+      "isComingSoon": true
+    },
+    {
+      "movieId": "MOV-AVATAR",
+      "title": "Avatar: The Way of Water",
+      "titleFr": "Avatar : La voie de l'eau",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-avatar.jpg",
+      "genre": "Sci-Fi",
+      "releaseDate": "2024-12-20",
+      "isNowPlaying": false,
+      "isComingSoon": true
+    },
+    {
+      "movieId": "MOV-TRON",
+      "title": "TRON: Ares",
+      "titleFr": "TRON : Ares",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/placeholder-tron.jpg",
+      "genre": "Sci-Fi",
+      "releaseDate": "2025-01-10",
+      "isNowPlaying": false,
+      "isComingSoon": true
+    }
+  ]
+}
+
